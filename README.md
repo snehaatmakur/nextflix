@@ -13,7 +13,7 @@ This project contains two Python scripts:
 - `random_recs.py` – Picks a **random title** in a genre and recommends **5 similar shows/movies**
 
 Both scripts use:
-- `netflix_titles.csv` – Public Netflix dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- `netflix_titles.csv` – Public Netflix dataset from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows), which is in the folder
 - `sqlite3` – Local SQL database to store and query data
 - `scikit-learn` – For TF-IDF vectorization and cosine similarity
 
